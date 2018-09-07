@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "name": "ncryptor",
+  "version": "1.0.0",
+  "description": "string encryption tool for short plaintexts (<1MB)",
+  "main": "index.js",
+  "author": "Thomas Richner <mail@trichner.ch>",
+  "license": "MIT"
+}
